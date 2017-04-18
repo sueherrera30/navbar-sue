@@ -1,0 +1,28 @@
+body{
+
+  background-color: #FAFAD2;
+  font-family: 'Cedarville Cursive', cursive;
+  font-size: 140%;
+}
+ul{
+ background:#FFE4C4;
+}
+li{
+  display:inline-block;
+  padding: 20px;
+  list-style: none;
+}
+a{
+  color:#FFC0CB;
+  text-decoration: none;
+  /*text-decoration,aqui quito los delineados predeterminados de los enlaces*/
+  padding: 10px;
+}
+a:hover{
+  /*al pasar el mouse cambia el colorcito*/
+  color:#D3D3D3;
+}
+span{
+  color :#90EE90;
+  margin:5px;
+}
